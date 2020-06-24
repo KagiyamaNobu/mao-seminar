@@ -4,7 +4,7 @@ GitHub Pages機能を使って公開されたページは[こちら](https://elm
 https://elmas3.github.io/mao-seminar/
 
 # 更新履歴
-June 24
+June 24, 2020
 
 # ディレクトリ構成
 ```
